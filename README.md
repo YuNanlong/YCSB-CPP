@@ -2,6 +2,8 @@
 
 YCSB for Rocksdb in c++ version 
 
+For more informations about YCSB, see https://github.com/brianfrankcooper/YCSB/
+
 ## Install
 
 ```shell
